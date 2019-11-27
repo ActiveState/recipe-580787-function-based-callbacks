@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python2
 
 # File: recipe.py
 # To demonstrate implementation and use of callbacks in Python,
